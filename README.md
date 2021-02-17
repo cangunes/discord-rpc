@@ -1,4 +1,4 @@
-# 🖥 Discord-RPC v0.0.5
+# 🖥 discord-rpc v0.0.5
 
 Discord RPC With button for everyone, easy to use!
 
