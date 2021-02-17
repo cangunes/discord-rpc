@@ -1,0 +1,15 @@
+{
+  "name": "discord-rpc",
+  "version": "0.0.5",
+  "description": "! ЯΞDBULL Edition Discord Rich Presence",
+  "main": "app.js",
+  "dependencies": {
+    "discord-rpc": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "app.js"
+  },
+  "author": "! ЯΞDBULL (Can)",
+  "license": "ISC"
+}
